@@ -1,6 +1,6 @@
 [project]
 name = "neutrino_api_client_requests"
-version = "4.6.12"
+version = "4.6.13"
 authors = [
     { name="Neutrino API", email="ops@neutrinoapi.com" },
 ]
